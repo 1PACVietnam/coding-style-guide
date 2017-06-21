@@ -26,7 +26,7 @@ Our team follows these coding style guides
 
 ## Ruby
 
-<https://github.com/bbatsov/rails-style-guide>
+<https://github.com/bbatsov/ruby-style-guide>
 
 ## Ruby on Rails
 
